@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rajde57
-- 👀 I’m interested in AI,maachiine learning, web  development.
+- 👀 I’m interested in AI,machine learning, web  development.
 - 🌱 I’m currently learning python,HTML-CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
